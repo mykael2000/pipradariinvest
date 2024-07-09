@@ -80,7 +80,7 @@ try {
    
 } catch (Exception $e) {
     echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
-    header("refresh:1;url=../../login.html");
+    header("refresh:1;url=../login.html");
          
 }
 if(isset($_POST['submit'])){
