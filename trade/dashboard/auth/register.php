@@ -58,8 +58,8 @@ $message ="";
         header("refresh:1;url=../../register.html");
         } else {
             // Insert user data into the database
-            $insertQuery = "INSERT INTO users (email, currency, country, phone, password, referrer_code)
-                            VALUES ('$email', '$currency', '$country', '$phone', '$hashedPassword', '$referral_code')";
+            $insertQuery = "INSERT INTO users (firstname, lastname, username, email, currency, country, phone, password, referrer_code)
+                            VALUES ('$firstname','$lastname','$username','$email', '$currency', '$country', '$phone', '$hashedPassword', '$referral_code')";
            $insert = mysqli_query($conn, $insertQuery);
             if($insert) { 
                 echo 'hereeeee';
