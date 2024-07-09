@@ -2,7 +2,7 @@
 // Database connection (Change credentials accordingly)
         $servername = "localhost";
         $username = "root";
-        $password = "";
+        $password = "PswaRA@hfiy!";
         $dbname = "pipradariinvest";
 
         $conn = new mysqli($servername, $username, $password, $dbname);
