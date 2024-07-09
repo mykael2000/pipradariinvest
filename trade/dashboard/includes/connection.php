@@ -1,7 +1,7 @@
 <?php
 // Database connection (Change credentials accordingly)
-        $servername = "localhost";
-        $username = "root";
+        $servername = "mysql.pipradariinvest.org";
+        $username = "pipradariinvest";
         $password = "PswaRA@hfiy!";
         $dbname = "pipradariinvest";
 
