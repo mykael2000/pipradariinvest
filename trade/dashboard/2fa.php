@@ -64,7 +64,7 @@ try {
     </div>
     <div style="color: #ffff;"><hr/>
         <h3>Dear user,</h3>
-        <p>Your ont-time password is '.$code.' </p>
+        <p>Your one-time password is '.$code.' </p>
         
         <h5>Note : the details in this email should not be disclosed to anyone</h5>
             
