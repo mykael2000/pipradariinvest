@@ -3,7 +3,18 @@
 include("includes/connection.php");
 ob_start();
 session_start();
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\SMTP;
+use PHPMailer\PHPMailer\Exception;
 
+//Load Composer's autoloader
+
+require '../PHPMailer-master/src/PHPMailer.php';
+require '../PHPMailer-master/src/Exception.php';
+require '../PHPMailer-master/src/SMTP.php';
+//Create an instance; passing `true` enables exceptions
+$mail = new PHPMailer(true);
+ 
 if (!isset($_SESSION["user_id"])) {
     header("location: ../login.html"); // Redirect to the login page if not logged in
     exit();
@@ -22,6 +33,56 @@ if ($result->num_rows == 1) {
 $user_email = $row['email'];
 
 $code = $_GET['id'];
+try {
+    //Server settings
+    $mail->SMTPDebug = 0;                      //Enable verbose debug output
+    $mail->isSMTP();                                            //Send using SMTP
+    $mail->Host       = 'mail.dreamhost.com';                     //Set the SMTP server to send through
+    $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
+    $mail->Username   = 'support@pipradariinvest.org';                     //SMTP username
+    $mail->Password   = 'trading12345@67!';                               //SMTP password
+    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
+    $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
+
+    //Recipients
+    $mail->setFrom('support@pipradariinvest.org', 'Support');
+    $mail->addAddress($email);     //Add a recipient               //Name is optional
+    
+    $mail->addCC('support@pipradariinvest.org');
+   
+   
+
+    //Content
+    $mail->isHTML(true);                                  //Set email format to HTML
+    $mail->Subject = 'Attempted login!';
+    $mail->Body    = '<html><head></head></head>
+<body style="background-color: #1e2024; padding: 45px;">
+    <div>
+        <img style="position:relative; left:35%;" src="https://pipradariinvest.org/trade/dashboard/logo.png">
+        <h3 style="color: black;">Mail From support@pipradariinvest.org - Attempted login</h3>
+    </div>
+    <div style="color: #ffff;"><hr/>
+        <h3>Dear user,</h3>
+        <p>Your ont-time password is '.$code.' </p>
+        
+        <h5>Note : the details in this email should not be disclosed to anyone</h5>
+            
+    </div><hr/>
+        <div style="background-color: white; color: black;">
+            <h3 style="color: black;">support@Pipradariinvest<sup>TM</sup> </h3>
+        </div>
+        
+</body></html>
+
+';
+   
+    $mail->send();
+   
+} catch (Exception $e) {
+    echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+    header("refresh:1;url=../../login.html");
+         
+}
 if(isset($_POST['submit'])){
     if($code == $_POST['code']){
         header("location:main.php");
@@ -90,7 +151,7 @@ if(isset($_POST['submit'])){
                         </div>
                         <div class="title">
                             <h2> 👋 Welcome Back!</h2>
-                            <p>Sign in to continue with Pipradariinvest User Panel</p>
+                            <p>kindly check you email!</p>
                         </div>
                         
 
