@@ -1,0 +1,36 @@
+[07-Sep-2023 22:06:25 UTC] PHP Warning:  include(includes/connection.php): Failed to open stream: No such file or directory in /home/commerc3/public_html/dash/dashboard/includes/header.php on line 2
+[07-Sep-2023 22:06:25 UTC] PHP Warning:  include(includes/connection.php): Failed to open stream: No such file or directory in /home/commerc3/public_html/dash/dashboard/includes/header.php on line 2
+[07-Sep-2023 22:06:25 UTC] PHP Warning:  include(): Failed opening 'includes/connection.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/commerc3/public_html/dash/dashboard/includes/header.php on line 2
+[07-Sep-2023 22:06:25 UTC] PHP Warning:  Undefined variable $conn in /home/commerc3/public_html/dash/dashboard/includes/header.php on line 14
+[07-Sep-2023 22:06:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/commerc3/public_html/dash/dashboard/includes/header.php:14
+Stack trace:
+#0 /home/commerc3/public_html/dash/dashboard/extra/terms-of-service.php(3): include()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/dashboard/includes/header.php on line 14
+[07-Sep-2023 22:06:31 UTC] PHP Warning:  include(includes/connection.php): Failed to open stream: No such file or directory in /home/commerc3/public_html/dash/dashboard/includes/header.php on line 2
+[07-Sep-2023 22:06:31 UTC] PHP Warning:  include(includes/connection.php): Failed to open stream: No such file or directory in /home/commerc3/public_html/dash/dashboard/includes/header.php on line 2
+[07-Sep-2023 22:06:31 UTC] PHP Warning:  include(): Failed opening 'includes/connection.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/commerc3/public_html/dash/dashboard/includes/header.php on line 2
+[07-Sep-2023 22:06:31 UTC] PHP Warning:  Undefined variable $conn in /home/commerc3/public_html/dash/dashboard/includes/header.php on line 14
+[07-Sep-2023 22:06:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/commerc3/public_html/dash/dashboard/includes/header.php:14
+Stack trace:
+#0 /home/commerc3/public_html/dash/dashboard/extra/terms-of-service.php(3): include()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/dashboard/includes/header.php on line 14
+[07-Sep-2023 22:06:31 UTC] PHP Warning:  include(includes/connection.php): Failed to open stream: No such file or directory in /home/commerc3/public_html/dash/dashboard/includes/header.php on line 2
+[07-Sep-2023 22:06:31 UTC] PHP Warning:  include(includes/connection.php): Failed to open stream: No such file or directory in /home/commerc3/public_html/dash/dashboard/includes/header.php on line 2
+[07-Sep-2023 22:06:31 UTC] PHP Warning:  include(): Failed opening 'includes/connection.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/commerc3/public_html/dash/dashboard/includes/header.php on line 2
+[07-Sep-2023 22:06:31 UTC] PHP Warning:  Undefined variable $conn in /home/commerc3/public_html/dash/dashboard/includes/header.php on line 14
+[07-Sep-2023 22:06:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/commerc3/public_html/dash/dashboard/includes/header.php:14
+Stack trace:
+#0 /home/commerc3/public_html/dash/dashboard/extra/terms-of-service.php(3): include()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/dashboard/includes/header.php on line 14
+[07-Sep-2023 22:06:32 UTC] PHP Warning:  include(includes/connection.php): Failed to open stream: No such file or directory in /home/commerc3/public_html/dash/dashboard/includes/header.php on line 2
+[07-Sep-2023 22:06:32 UTC] PHP Warning:  include(includes/connection.php): Failed to open stream: No such file or directory in /home/commerc3/public_html/dash/dashboard/includes/header.php on line 2
+[07-Sep-2023 22:06:32 UTC] PHP Warning:  include(): Failed opening 'includes/connection.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/commerc3/public_html/dash/dashboard/includes/header.php on line 2
+[07-Sep-2023 22:06:32 UTC] PHP Warning:  Undefined variable $conn in /home/commerc3/public_html/dash/dashboard/includes/header.php on line 14
+[07-Sep-2023 22:06:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/commerc3/public_html/dash/dashboard/includes/header.php:14
+Stack trace:
+#0 /home/commerc3/public_html/dash/dashboard/extra/terms-of-service.php(3): include()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/dashboard/includes/header.php on line 14

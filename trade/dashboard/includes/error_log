@@ -1,0 +1,4 @@
+[07-Sep-2023 20:23:42 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/commerc3/public_html/dash/dashboard/includes/connection.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/dashboard/includes/connection.php on line 8

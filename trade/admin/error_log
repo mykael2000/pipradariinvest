@@ -1,0 +1,1051 @@
+[08-Sep-2023 08:26:54 UTC] PHP Warning:  Undefined array key "fund_status" in /home/commerc3/public_html/dash/admin/edit.php on line 15
+[08-Sep-2023 11:15:50 UTC] PHP Warning:  Undefined variable $email in /home/commerc3/public_html/dash/admin/depoedit.php on line 49
+[08-Sep-2023 11:15:50 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 92
+[08-Sep-2023 11:16:20 UTC] PHP Warning:  Undefined variable $email in /home/commerc3/public_html/dash/admin/depoedit.php on line 49
+[08-Sep-2023 11:16:20 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 92
+[08-Sep-2023 11:16:28 UTC] PHP Warning:  Undefined variable $email in /home/commerc3/public_html/dash/admin/depoedit.php on line 49
+[08-Sep-2023 11:16:28 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 92
+[08-Sep-2023 11:17:37 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 93
+[08-Sep-2023 11:18:22 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 92
+[08-Sep-2023 11:18:36 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 92
+[08-Sep-2023 11:20:29 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 92
+[08-Sep-2023 11:22:38 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 101
+[08-Sep-2023 11:24:22 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 101
+[08-Sep-2023 11:24:49 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 101
+[08-Sep-2023 11:25:04 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 101
+[08-Sep-2023 11:25:41 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 50
+[08-Sep-2023 11:28:26 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 50
+[08-Sep-2023 11:28:53 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 50
+[08-Sep-2023 11:31:08 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 50
+[08-Sep-2023 11:33:48 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - string in /home/commerc3/public_html/dash/admin/cryptoedit.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/cryptoedit.php on line 24
+[08-Sep-2023 11:34:21 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - string in /home/commerc3/public_html/dash/admin/cryptoedit.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/cryptoedit.php on line 24
+[08-Sep-2023 11:35:02 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 50
+[08-Sep-2023 11:36:52 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 46
+[08-Sep-2023 11:37:31 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 46
+[08-Sep-2023 11:39:54 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 57
+[08-Sep-2023 11:40:02 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 57
+[08-Sep-2023 11:43:32 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 58
+[08-Sep-2023 11:47:44 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 58
+[08-Sep-2023 11:52:04 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 59
+[08-Sep-2023 11:55:28 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 35
+[08-Sep-2023 11:57:26 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 35
+[08-Sep-2023 11:57:48 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/commerc3/public_html/dash/admin/depoedit.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/depoedit.php on line 35
+[08-Sep-2023 12:18:58 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 238
+[08-Sep-2023 12:18:58 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 244
+[08-Sep-2023 12:18:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 244
+[08-Sep-2023 12:18:58 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 248
+[08-Sep-2023 12:18:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 248
+[08-Sep-2023 12:18:58 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 250
+[08-Sep-2023 12:18:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 250
+[08-Sep-2023 12:22:20 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 238
+[08-Sep-2023 12:22:20 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 244
+[08-Sep-2023 12:22:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 244
+[08-Sep-2023 12:22:20 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 248
+[08-Sep-2023 12:22:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 248
+[08-Sep-2023 12:22:20 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 250
+[08-Sep-2023 12:22:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 250
+[08-Sep-2023 12:31:43 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 318
+[08-Sep-2023 12:31:43 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 328
+[08-Sep-2023 12:31:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 328
+[08-Sep-2023 12:31:49 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "SMTPDebug" on null in /home/commerc3/public_html/dash/admin/index.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/index.php on line 153
+[08-Sep-2023 12:31:54 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 318
+[08-Sep-2023 12:31:54 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 328
+[08-Sep-2023 12:31:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 328
+[08-Sep-2023 12:32:06 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "SMTPDebug" on null in /home/commerc3/public_html/dash/admin/index.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/index.php on line 153
+[08-Sep-2023 12:32:32 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 318
+[08-Sep-2023 12:32:32 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 328
+[08-Sep-2023 12:32:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 328
+[08-Sep-2023 12:34:38 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 329
+[08-Sep-2023 12:34:38 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 339
+[08-Sep-2023 12:34:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 339
+[08-Sep-2023 12:34:50 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 339
+[08-Sep-2023 12:34:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 339
+[08-Sep-2023 12:35:08 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 329
+[08-Sep-2023 12:35:08 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 339
+[08-Sep-2023 12:35:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 339
+[08-Sep-2023 12:35:15 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 339
+[08-Sep-2023 12:35:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 339
+[08-Sep-2023 12:36:13 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 340
+[08-Sep-2023 12:36:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 340
+[08-Sep-2023 12:36:40 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 340
+[08-Sep-2023 12:36:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 340
+[08-Sep-2023 12:40:16 UTC] PHP Warning:  Undefined variable $email in /home/commerc3/public_html/dash/admin/index.php on line 176
+[08-Sep-2023 12:40:16 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 340
+[08-Sep-2023 12:40:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 340
+[08-Sep-2023 12:41:36 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 340
+[08-Sep-2023 12:41:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 340
+[08-Sep-2023 12:53:43 UTC] PHP Warning:  Undefined array key "client_id" in /home/commerc3/public_html/dash/admin/index.php on line 151
+[08-Sep-2023 12:53:43 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 350
+[08-Sep-2023 12:53:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 350
+[08-Sep-2023 12:53:55 UTC] PHP Warning:  Undefined array key "client_id" in /home/commerc3/public_html/dash/admin/index.php on line 151
+[08-Sep-2023 12:53:55 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 350
+[08-Sep-2023 12:53:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 350
+[08-Sep-2023 12:55:11 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 350
+[08-Sep-2023 12:55:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 350
+[08-Sep-2023 18:27:51 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 179
+[08-Sep-2023 18:28:22 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 179
+[08-Sep-2023 18:28:32 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 179
+[08-Sep-2023 18:28:40 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 179
+[08-Sep-2023 18:28:50 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 179
+[08-Sep-2023 18:29:16 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 179
+[08-Sep-2023 18:29:20 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 179
+[08-Sep-2023 18:29:20 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 179
+[08-Sep-2023 18:29:24 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 179
+[08-Sep-2023 18:29:24 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 179
+[08-Sep-2023 18:35:52 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:35:57 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:36:20 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:36:23 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:36:27 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:37:08 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:37:12 UTC] PHP Warning:  Undefined variable $useremail in /home/commerc3/public_html/dash/admin/edit.php on line 64
+[08-Sep-2023 18:37:12 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:37:12 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:37:18 UTC] PHP Warning:  Undefined variable $useremail in /home/commerc3/public_html/dash/admin/edit.php on line 64
+[08-Sep-2023 18:37:18 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:37:19 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:43:01 UTC] PHP Warning:  Undefined variable $useremail in /home/commerc3/public_html/dash/admin/edit.php on line 64
+[08-Sep-2023 18:43:01 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:43:01 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:45:13 UTC] PHP Warning:  Undefined variable $useremail in /home/commerc3/public_html/dash/admin/edit.php on line 64
+[08-Sep-2023 18:45:13 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:45:13 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:45:17 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:45:20 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:45:25 UTC] PHP Warning:  Undefined variable $useremail in /home/commerc3/public_html/dash/admin/edit.php on line 64
+[08-Sep-2023 18:45:25 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:45:25 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:45:35 UTC] PHP Warning:  Undefined variable $useremail in /home/commerc3/public_html/dash/admin/edit.php on line 64
+[08-Sep-2023 18:45:35 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:45:35 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:46:04 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:46:07 UTC] PHP Warning:  Undefined variable $useremail in /home/commerc3/public_html/dash/admin/edit.php on line 64
+[08-Sep-2023 18:46:07 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:46:07 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:46:34 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:46:36 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:46:39 UTC] PHP Warning:  Undefined variable $useremail in /home/commerc3/public_html/dash/admin/edit.php on line 64
+[08-Sep-2023 18:46:39 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:46:39 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:46:43 UTC] PHP Warning:  Undefined variable $useremail in /home/commerc3/public_html/dash/admin/edit.php on line 64
+[08-Sep-2023 18:46:43 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:46:43 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:48:19 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:48:27 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:48:30 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:48:31 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 18:50:11 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[08-Sep-2023 18:50:11 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[08-Sep-2023 18:50:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[08-Sep-2023 18:51:15 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 20:10:38 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[08-Sep-2023 20:10:38 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[08-Sep-2023 20:10:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[08-Sep-2023 20:10:57 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 20:11:12 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[08-Sep-2023 20:11:12 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[08-Sep-2023 20:11:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[08-Sep-2023 20:11:26 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[08-Sep-2023 20:11:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[08-Sep-2023 20:11:47 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 20:11:57 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[08-Sep-2023 20:11:57 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[10-Sep-2023 12:15:26 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 12:15:26 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 12:15:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 14:00:51 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 14:00:51 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 14:00:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 14:01:08 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 14:01:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 14:02:17 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[10-Sep-2023 14:02:49 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[10-Sep-2023 14:02:49 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[10-Sep-2023 14:05:35 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[10-Sep-2023 14:05:35 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[10-Sep-2023 14:05:46 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[10-Sep-2023 14:05:46 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[10-Sep-2023 14:45:38 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 14:45:38 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 14:45:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 14:45:49 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[10-Sep-2023 14:46:10 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[10-Sep-2023 14:46:11 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[10-Sep-2023 17:38:36 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 17:38:36 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 17:38:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 17:41:37 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 17:41:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 17:42:44 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 244
+[10-Sep-2023 18:10:06 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 250
+[10-Sep-2023 18:10:13 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 18:10:13 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 18:10:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 18:11:19 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 18:11:19 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 18:11:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 18:11:19 UTC] PHP Warning:  Undefined variable $messagede in /home/commerc3/public_html/dash/admin/index.php on line 388
+[10-Sep-2023 18:11:19 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 398
+[10-Sep-2023 18:11:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 398
+[10-Sep-2023 18:11:48 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 18:11:48 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 18:11:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 18:11:48 UTC] PHP Warning:  Undefined variable $messagede in /home/commerc3/public_html/dash/admin/index.php on line 388
+[10-Sep-2023 18:11:48 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 398
+[10-Sep-2023 18:11:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 398
+[10-Sep-2023 18:13:13 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 18:13:13 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 18:13:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 18:13:13 UTC] PHP Warning:  Undefined variable $messagede in /home/commerc3/public_html/dash/admin/index.php on line 388
+[10-Sep-2023 18:13:13 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 398
+[10-Sep-2023 18:13:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 398
+[10-Sep-2023 18:13:13 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 435
+[10-Sep-2023 18:13:13 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 445
+[10-Sep-2023 18:13:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 445
+[10-Sep-2023 18:18:21 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 18:18:21 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 18:18:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 18:18:21 UTC] PHP Warning:  Undefined variable $messagede in /home/commerc3/public_html/dash/admin/index.php on line 388
+[10-Sep-2023 18:18:21 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 398
+[10-Sep-2023 18:18:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 398
+[10-Sep-2023 18:18:21 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 435
+[10-Sep-2023 18:18:21 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 445
+[10-Sep-2023 18:18:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 445
+[10-Sep-2023 18:23:44 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 18:23:44 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 18:23:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 18:23:44 UTC] PHP Warning:  Undefined variable $messagede in /home/commerc3/public_html/dash/admin/index.php on line 388
+[10-Sep-2023 18:23:44 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 398
+[10-Sep-2023 18:23:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 398
+[10-Sep-2023 18:23:44 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 435
+[10-Sep-2023 18:23:44 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 445
+[10-Sep-2023 18:23:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 445
+[10-Sep-2023 18:23:54 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 18:23:54 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 18:23:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 18:23:54 UTC] PHP Warning:  Undefined variable $messagede in /home/commerc3/public_html/dash/admin/index.php on line 388
+[10-Sep-2023 18:23:54 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 398
+[10-Sep-2023 18:23:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 398
+[10-Sep-2023 18:23:54 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 435
+[10-Sep-2023 18:23:54 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 445
+[10-Sep-2023 18:23:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 445
+[10-Sep-2023 18:24:10 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 18:24:10 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 18:24:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 18:24:10 UTC] PHP Warning:  Undefined variable $messagede in /home/commerc3/public_html/dash/admin/index.php on line 388
+[10-Sep-2023 18:24:10 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 398
+[10-Sep-2023 18:24:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 398
+[10-Sep-2023 18:24:10 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 435
+[10-Sep-2023 18:24:10 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 445
+[10-Sep-2023 18:24:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 445
+[10-Sep-2023 18:28:54 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 18:28:54 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 18:28:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 18:28:54 UTC] PHP Warning:  Undefined variable $messagede in /home/commerc3/public_html/dash/admin/index.php on line 388
+[10-Sep-2023 18:28:54 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 398
+[10-Sep-2023 18:28:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 398
+[10-Sep-2023 18:28:54 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/commerc3/public_html/dash/admin/index.php:403
+Stack trace:
+#0 /home/commerc3/public_html/dash/admin/index.php(403): mysqli_query()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/admin/index.php on line 403
+[10-Sep-2023 18:33:11 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 18:33:11 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 18:33:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 18:33:11 UTC] PHP Warning:  Undefined variable $messagede in /home/commerc3/public_html/dash/admin/index.php on line 388
+[10-Sep-2023 18:33:11 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 398
+[10-Sep-2023 18:33:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 398
+[10-Sep-2023 18:33:11 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/commerc3/public_html/dash/admin/index.php:403
+Stack trace:
+#0 /home/commerc3/public_html/dash/admin/index.php(403): mysqli_query()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/admin/index.php on line 403
+[10-Sep-2023 18:34:29 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 18:34:29 UTC] PHP Warning:  Undefined variable $messagede in /home/commerc3/public_html/dash/admin/index.php on line 387
+[10-Sep-2023 18:34:29 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/commerc3/public_html/dash/admin/index.php:401
+Stack trace:
+#0 /home/commerc3/public_html/dash/admin/index.php(401): mysqli_query()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/admin/index.php on line 401
+[10-Sep-2023 18:34:34 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 18:34:34 UTC] PHP Warning:  Undefined variable $messagede in /home/commerc3/public_html/dash/admin/index.php on line 387
+[10-Sep-2023 18:34:34 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/commerc3/public_html/dash/admin/index.php:401
+Stack trace:
+#0 /home/commerc3/public_html/dash/admin/index.php(401): mysqli_query()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/admin/index.php on line 401
+[10-Sep-2023 18:35:46 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 18:35:46 UTC] PHP Warning:  Undefined variable $messagede in /home/commerc3/public_html/dash/admin/index.php on line 387
+[10-Sep-2023 18:35:46 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/commerc3/public_html/dash/admin/index.php:401
+Stack trace:
+#0 /home/commerc3/public_html/dash/admin/index.php(401): mysqli_query()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/admin/index.php on line 401
+[10-Sep-2023 18:36:19 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 18:36:19 UTC] PHP Warning:  Undefined variable $messagede in /home/commerc3/public_html/dash/admin/index.php on line 387
+[10-Sep-2023 18:36:19 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/commerc3/public_html/dash/admin/index.php:401
+Stack trace:
+#0 /home/commerc3/public_html/dash/admin/index.php(401): mysqli_query()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/admin/index.php on line 401
+[10-Sep-2023 18:36:25 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 18:36:25 UTC] PHP Warning:  Undefined variable $messagede in /home/commerc3/public_html/dash/admin/index.php on line 387
+[10-Sep-2023 18:36:25 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/commerc3/public_html/dash/admin/index.php:401
+Stack trace:
+#0 /home/commerc3/public_html/dash/admin/index.php(401): mysqli_query()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/admin/index.php on line 401
+[10-Sep-2023 18:36:30 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 18:36:30 UTC] PHP Warning:  Undefined variable $messagede in /home/commerc3/public_html/dash/admin/index.php on line 387
+[10-Sep-2023 18:36:30 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/commerc3/public_html/dash/admin/index.php:401
+Stack trace:
+#0 /home/commerc3/public_html/dash/admin/index.php(401): mysqli_query()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/admin/index.php on line 401
+[10-Sep-2023 18:36:47 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 18:36:47 UTC] PHP Warning:  Undefined variable $messagede in /home/commerc3/public_html/dash/admin/index.php on line 387
+[10-Sep-2023 18:36:47 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/commerc3/public_html/dash/admin/index.php:401
+Stack trace:
+#0 /home/commerc3/public_html/dash/admin/index.php(401): mysqli_query()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/admin/index.php on line 401
+[10-Sep-2023 18:51:23 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 18:51:23 UTC] PHP Warning:  Undefined variable $messagede in /home/commerc3/public_html/dash/admin/index.php on line 387
+[10-Sep-2023 18:51:23 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/commerc3/public_html/dash/admin/index.php:401
+Stack trace:
+#0 /home/commerc3/public_html/dash/admin/index.php(401): mysqli_query()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/admin/index.php on line 401
+[10-Sep-2023 18:54:19 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 18:54:19 UTC] PHP Warning:  Undefined variable $messagede in /home/commerc3/public_html/dash/admin/index.php on line 387
+[10-Sep-2023 18:54:19 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/commerc3/public_html/dash/admin/index.php:401
+Stack trace:
+#0 /home/commerc3/public_html/dash/admin/index.php(401): mysqli_query()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/admin/index.php on line 401
+[10-Sep-2023 18:55:06 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 18:55:06 UTC] PHP Warning:  Undefined variable $messagede in /home/commerc3/public_html/dash/admin/index.php on line 387
+[10-Sep-2023 18:55:06 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/commerc3/public_html/dash/admin/index.php:401
+Stack trace:
+#0 /home/commerc3/public_html/dash/admin/index.php(401): mysqli_query()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/admin/index.php on line 401
+[10-Sep-2023 18:55:41 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 18:57:14 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home/commerc3/public_html/dash/admin/index.php on line 448
+[10-Sep-2023 18:57:17 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home/commerc3/public_html/dash/admin/index.php on line 448
+[10-Sep-2023 18:58:06 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home/commerc3/public_html/dash/admin/index.php on line 450
+[10-Sep-2023 18:58:27 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home/commerc3/public_html/dash/admin/index.php on line 450
+[10-Sep-2023 18:58:41 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home/commerc3/public_html/dash/admin/index.php on line 401
+[10-Sep-2023 18:58:43 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home/commerc3/public_html/dash/admin/index.php on line 401
+[10-Sep-2023 19:00:11 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home/commerc3/public_html/dash/admin/index.php on line 401
+[10-Sep-2023 19:00:14 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home/commerc3/public_html/dash/admin/index.php on line 401
+[10-Sep-2023 19:00:15 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home/commerc3/public_html/dash/admin/index.php on line 401
+[10-Sep-2023 19:00:16 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home/commerc3/public_html/dash/admin/index.php on line 401
+[10-Sep-2023 19:00:16 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home/commerc3/public_html/dash/admin/index.php on line 401
+[10-Sep-2023 19:00:31 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 19:00:31 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 19:00:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 19:04:11 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 19:04:11 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 19:04:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 19:04:11 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 388
+[10-Sep-2023 19:04:11 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/commerc3/public_html/dash/admin/index.php:403
+Stack trace:
+#0 /home/commerc3/public_html/dash/admin/index.php(403): mysqli_query()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/admin/index.php on line 403
+[10-Sep-2023 19:10:36 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 19:10:36 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 19:10:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 19:10:36 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 388
+[10-Sep-2023 19:10:36 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/commerc3/public_html/dash/admin/index.php:403
+Stack trace:
+#0 /home/commerc3/public_html/dash/admin/index.php(403): mysqli_query()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/admin/index.php on line 403
+[10-Sep-2023 19:10:53 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 19:10:53 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 19:10:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 19:10:53 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 388
+[10-Sep-2023 19:10:53 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/commerc3/public_html/dash/admin/index.php:403
+Stack trace:
+#0 /home/commerc3/public_html/dash/admin/index.php(403): mysqli_query()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/admin/index.php on line 403
+[10-Sep-2023 19:10:56 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 19:10:56 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 19:10:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 19:10:56 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 388
+[10-Sep-2023 19:10:56 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/commerc3/public_html/dash/admin/index.php:403
+Stack trace:
+#0 /home/commerc3/public_html/dash/admin/index.php(403): mysqli_query()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/admin/index.php on line 403
+[10-Sep-2023 19:11:11 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 19:11:11 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 19:11:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 19:11:11 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 388
+[10-Sep-2023 19:11:11 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/commerc3/public_html/dash/admin/index.php:403
+Stack trace:
+#0 /home/commerc3/public_html/dash/admin/index.php(403): mysqli_query()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/admin/index.php on line 403
+[10-Sep-2023 19:11:13 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addDeposit.php on line 135
+[10-Sep-2023 19:11:13 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[10-Sep-2023 19:11:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[10-Sep-2023 19:11:17 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 341
+[10-Sep-2023 19:11:17 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 19:11:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/index.php on line 351
+[10-Sep-2023 19:11:17 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/index.php on line 388
+[10-Sep-2023 19:11:17 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/commerc3/public_html/dash/admin/index.php:403
+Stack trace:
+#0 /home/commerc3/public_html/dash/admin/index.php(403): mysqli_query()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/admin/index.php on line 403
+[10-Sep-2023 19:11:26 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addDeposit.php on line 135
+[10-Sep-2023 19:11:26 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[10-Sep-2023 19:11:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[10-Sep-2023 19:16:29 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addProfit.php on line 135
+[10-Sep-2023 19:16:29 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addProfit.php on line 145
+[10-Sep-2023 19:16:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addProfit.php on line 145
+[10-Sep-2023 19:16:38 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addProfit.php on line 145
+[10-Sep-2023 19:16:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addProfit.php on line 145
+[10-Sep-2023 19:16:42 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addDeposit.php on line 135
+[10-Sep-2023 19:16:42 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[10-Sep-2023 19:16:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[10-Sep-2023 19:20:19 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addDeposit.php on line 135
+[10-Sep-2023 19:20:19 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[10-Sep-2023 19:20:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[10-Sep-2023 19:20:30 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[10-Sep-2023 19:20:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[10-Sep-2023 19:21:42 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addBonus.php on line 135
+[10-Sep-2023 19:21:42 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addBonus.php on line 145
+[10-Sep-2023 19:21:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addBonus.php on line 145
+[10-Sep-2023 19:21:51 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addBonus.php on line 145
+[10-Sep-2023 19:21:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addBonus.php on line 145
+[10-Sep-2023 19:38:26 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[10-Sep-2023 19:38:30 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[10-Sep-2023 19:38:30 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[10-Sep-2023 19:40:02 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[10-Sep-2023 19:40:13 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[10-Sep-2023 19:40:13 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[10-Sep-2023 19:40:43 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[10-Sep-2023 19:40:43 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[10-Sep-2023 20:13:07 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[10-Sep-2023 20:13:07 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[10-Sep-2023 20:15:00 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[10-Sep-2023 20:15:00 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[10-Sep-2023 20:15:16 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[10-Sep-2023 20:15:16 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 13:26:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/depoedit.php on line 25
+[11-Sep-2023 13:26:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/depoedit.php on line 26
+[11-Sep-2023 13:27:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/depoedit.php on line 25
+[11-Sep-2023 13:27:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/depoedit.php on line 26
+[11-Sep-2023 13:27:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/depoedit.php on line 36
+[11-Sep-2023 13:35:16 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 13:37:03 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addProfit.php on line 135
+[11-Sep-2023 13:37:03 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addProfit.php on line 145
+[11-Sep-2023 13:37:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addProfit.php on line 145
+[11-Sep-2023 13:37:04 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addProfit.php on line 135
+[11-Sep-2023 13:37:04 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addProfit.php on line 145
+[11-Sep-2023 13:37:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addProfit.php on line 145
+[11-Sep-2023 13:37:05 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addDeposit.php on line 135
+[11-Sep-2023 13:37:05 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[11-Sep-2023 13:37:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[11-Sep-2023 13:37:06 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addBonus.php on line 135
+[11-Sep-2023 13:37:06 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addBonus.php on line 145
+[11-Sep-2023 13:37:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addBonus.php on line 145
+[11-Sep-2023 13:37:09 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addDeposit.php on line 135
+[11-Sep-2023 13:37:09 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[11-Sep-2023 13:37:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[11-Sep-2023 13:40:29 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 13:40:37 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 13:40:37 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 13:41:10 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 13:41:11 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 13:42:43 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addProfit.php on line 135
+[11-Sep-2023 13:42:43 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addProfit.php on line 145
+[11-Sep-2023 13:42:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addProfit.php on line 145
+[11-Sep-2023 13:42:56 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addDeposit.php on line 135
+[11-Sep-2023 13:42:56 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[11-Sep-2023 13:42:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[11-Sep-2023 13:43:05 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[11-Sep-2023 13:43:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[11-Sep-2023 13:43:37 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 13:43:43 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 13:43:44 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 13:44:30 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 13:44:30 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 13:45:10 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 13:45:11 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 14:09:09 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addDeposit.php on line 135
+[11-Sep-2023 14:09:09 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[11-Sep-2023 14:09:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[11-Sep-2023 14:44:28 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 14:44:46 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 14:44:47 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 14:46:02 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 14:46:02 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 14:59:43 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 15:00:15 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 15:00:16 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 15:30:51 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 15:30:51 UTC] PHP Warning:  Undefined array key "profit_amount" in /home/commerc3/public_html/dash/admin/edit.php on line 272
+[11-Sep-2023 15:30:51 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 288
+[11-Sep-2023 15:35:06 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 15:35:06 UTC] PHP Warning:  Undefined array key "profit_amount" in /home/commerc3/public_html/dash/admin/edit.php on line 272
+[11-Sep-2023 15:35:06 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 288
+[11-Sep-2023 15:39:09 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 15:39:09 UTC] PHP Warning:  Undefined array key "profit_amount" in /home/commerc3/public_html/dash/admin/edit.php on line 272
+[11-Sep-2023 15:39:09 UTC] PHP Warning:  Undefined array key "time" in /home/commerc3/public_html/dash/admin/edit.php on line 277
+[11-Sep-2023 15:39:09 UTC] PHP Warning:  Undefined array key "time" in /home/commerc3/public_html/dash/admin/edit.php on line 277
+[11-Sep-2023 15:39:09 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 296
+[11-Sep-2023 15:52:41 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addProfit.php on line 135
+[11-Sep-2023 15:52:41 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addProfit.php on line 145
+[11-Sep-2023 15:52:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addProfit.php on line 145
+[11-Sep-2023 20:12:43 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 262
+[11-Sep-2023 20:12:43 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 296
+[11-Sep-2023 20:17:54 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 283
+[11-Sep-2023 20:17:54 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 317
+[11-Sep-2023 20:18:10 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 283
+[11-Sep-2023 20:18:10 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 317
+[11-Sep-2023 20:27:02 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 283
+[11-Sep-2023 20:27:02 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 317
+[11-Sep-2023 20:30:19 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 283
+[11-Sep-2023 20:30:19 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 317
+[11-Sep-2023 20:30:19 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 283
+[11-Sep-2023 20:30:19 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 317
+[11-Sep-2023 20:31:14 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 283
+[11-Sep-2023 20:31:14 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 317
+[11-Sep-2023 20:31:36 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 283
+[11-Sep-2023 20:31:36 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 317
+[11-Sep-2023 20:31:36 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 283
+[11-Sep-2023 20:31:36 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 317
+[11-Sep-2023 20:32:27 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 283
+[11-Sep-2023 20:32:27 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 317
+[11-Sep-2023 20:52:06 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 285
+[11-Sep-2023 20:52:06 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 321
+[11-Sep-2023 20:52:16 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 285
+[11-Sep-2023 20:52:16 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 321
+[11-Sep-2023 20:53:29 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 20:53:29 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 322
+[11-Sep-2023 20:56:16 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 20:56:16 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 20:56:22 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string / int in /home/commerc3/public_html/dash/admin/edit.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/commerc3/public_html/dash/admin/edit.php on line 124
+[11-Sep-2023 20:56:26 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 20:56:26 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 20:56:38 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 20:56:38 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 20:56:40 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 20:56:40 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:04:03 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:04:03 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:04:35 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:04:35 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:04:40 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:04:40 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:04:46 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:04:46 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:04:48 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:04:48 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:05:08 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:05:08 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:07:17 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:07:17 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:07:19 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:07:19 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:17:25 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addDeposit.php on line 135
+[11-Sep-2023 21:17:25 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[11-Sep-2023 21:17:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[11-Sep-2023 21:17:41 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[11-Sep-2023 21:17:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[11-Sep-2023 21:17:52 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:17:52 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:18:15 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:18:15 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:18:16 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:18:16 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:18:39 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:18:39 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:19:15 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:19:15 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:19:17 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:19:17 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:19:36 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addDeposit.php on line 135
+[11-Sep-2023 21:19:36 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[11-Sep-2023 21:19:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[11-Sep-2023 21:19:50 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[11-Sep-2023 21:19:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[11-Sep-2023 21:20:11 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:20:11 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:20:26 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:20:26 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:20:35 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:20:35 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:20:37 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:20:37 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:20:52 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:20:52 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:20:53 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:20:53 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:21:26 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:21:26 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:21:27 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:21:27 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:21:36 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:21:36 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:21:38 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:21:38 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:21:41 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:21:41 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:21:49 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:21:49 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:21:57 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:21:57 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:21:58 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:21:58 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:22:06 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:22:06 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:22:07 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:22:07 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:23:05 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:23:05 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:23:21 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:23:21 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:23:24 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:23:24 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:23:28 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:23:28 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:25:16 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:25:16 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:25:17 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:25:17 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:25:24 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:25:24 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:25:26 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:25:26 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:27:40 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:27:40 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:27:48 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:27:48 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:27:50 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:27:50 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:27:56 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:27:56 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:27:58 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:27:58 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:28:28 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:28:28 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:29:03 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:29:03 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:29:05 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:29:05 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:31:27 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:31:27 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:33:19 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:33:19 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:33:20 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:33:20 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:33:43 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:33:43 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:33:51 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:33:51 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:33:54 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:33:54 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:34:03 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:34:03 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:34:04 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:34:04 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 323
+[11-Sep-2023 21:34:27 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:34:27 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:35:58 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:35:58 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:36:37 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:36:37 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:36:40 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:36:40 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:37:22 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:37:22 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:39:00 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:39:00 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:39:09 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:39:09 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:39:11 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:39:11 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:39:59 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:39:59 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:44:15 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:44:15 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:46:55 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:46:55 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:46:56 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:46:56 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:48:10 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:48:10 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:48:19 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:48:19 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:48:21 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:48:21 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:48:51 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:48:51 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:48:52 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:48:52 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:48:58 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:48:58 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:49:00 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:49:00 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:49:00 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:49:00 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:49:09 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:49:09 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:49:11 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:49:11 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:49:32 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addBonus.php on line 135
+[11-Sep-2023 21:49:32 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addBonus.php on line 145
+[11-Sep-2023 21:49:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addBonus.php on line 145
+[11-Sep-2023 21:50:05 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:50:05 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:50:32 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addBonus.php on line 145
+[11-Sep-2023 21:50:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addBonus.php on line 145
+[11-Sep-2023 21:58:26 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:58:26 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:58:33 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addDeposit.php on line 135
+[11-Sep-2023 21:58:33 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[11-Sep-2023 21:58:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[11-Sep-2023 21:58:43 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[11-Sep-2023 21:58:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[11-Sep-2023 21:58:46 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addBonus.php on line 135
+[11-Sep-2023 21:58:46 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addBonus.php on line 145
+[11-Sep-2023 21:58:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addBonus.php on line 145
+[11-Sep-2023 21:58:54 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addBonus.php on line 145
+[11-Sep-2023 21:58:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addBonus.php on line 145
+[11-Sep-2023 21:59:00 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:59:00 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:59:18 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:59:18 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:59:19 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:59:19 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:59:35 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:59:35 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[11-Sep-2023 21:59:36 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[11-Sep-2023 21:59:36 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 08:03:51 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 08:03:51 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 08:04:11 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 08:04:11 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 08:04:11 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 08:04:11 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 08:04:33 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 08:04:33 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 08:04:33 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 08:04:33 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 08:04:41 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 08:04:41 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 08:04:43 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 08:04:43 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 08:06:26 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 08:06:26 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 08:06:26 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 08:06:26 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 08:31:52 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 08:31:52 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 08:31:53 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 08:31:53 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 08:32:16 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 08:32:16 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 08:32:17 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 08:32:17 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 08:32:36 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 08:32:36 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 08:32:37 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 08:32:37 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 09:07:24 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 09:07:24 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 09:08:06 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 09:08:06 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 09:08:06 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 09:08:06 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 09:08:13 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 09:08:13 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 09:08:14 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 09:08:14 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 09:41:23 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 09:41:23 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 09:41:23 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 09:41:23 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 09:41:37 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 09:41:37 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 09:41:39 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 09:41:39 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 10:59:24 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 10:59:24 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 11:04:36 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 11:04:36 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 11:04:36 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 11:04:36 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 11:04:43 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 11:04:43 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 11:04:45 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 11:04:45 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 11:53:22 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 11:53:22 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 11:53:35 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 11:53:35 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 11:53:35 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 11:53:35 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 11:53:47 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 11:53:47 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 11:53:48 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 11:53:48 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 11:54:02 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 11:54:02 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 11:54:02 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 11:54:02 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 11:54:24 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 11:54:24 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[12-Sep-2023 11:54:24 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[12-Sep-2023 11:54:24 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[13-Sep-2023 08:10:10 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 286
+[13-Sep-2023 08:10:10 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 324
+[13-Sep-2023 08:20:10 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[13-Sep-2023 08:20:10 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[13-Sep-2023 08:20:43 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[13-Sep-2023 08:20:43 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[13-Sep-2023 08:20:45 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[13-Sep-2023 08:20:45 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[13-Sep-2023 08:24:08 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[13-Sep-2023 08:24:08 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[13-Sep-2023 08:24:10 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[13-Sep-2023 08:24:10 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[13-Sep-2023 08:24:20 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[13-Sep-2023 08:24:20 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[13-Sep-2023 08:24:21 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[13-Sep-2023 08:24:21 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[13-Sep-2023 12:35:49 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[13-Sep-2023 12:35:49 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[13-Sep-2023 12:36:34 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[13-Sep-2023 12:36:34 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[13-Sep-2023 12:36:36 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[13-Sep-2023 12:36:36 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[13-Sep-2023 12:37:00 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[13-Sep-2023 12:37:00 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[13-Sep-2023 12:37:00 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[13-Sep-2023 12:37:00 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[13-Sep-2023 12:37:39 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[13-Sep-2023 12:37:39 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[13-Sep-2023 12:37:40 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[13-Sep-2023 12:37:40 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[13-Sep-2023 14:32:32 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[13-Sep-2023 14:32:32 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[13-Sep-2023 14:32:33 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addDeposit.php on line 135
+[13-Sep-2023 14:32:33 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[13-Sep-2023 14:32:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[13-Sep-2023 14:32:43 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[13-Sep-2023 14:32:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[13-Sep-2023 23:50:36 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addDeposit.php on line 135
+[13-Sep-2023 23:50:36 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[13-Sep-2023 23:50:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[13-Sep-2023 23:51:06 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[13-Sep-2023 23:51:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[14-Sep-2023 00:04:36 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addDeposit.php on line 135
+[14-Sep-2023 00:04:36 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[14-Sep-2023 00:04:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[14-Sep-2023 00:05:00 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[14-Sep-2023 00:05:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[14-Sep-2023 00:13:29 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[14-Sep-2023 00:13:29 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[14-Sep-2023 00:13:43 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[14-Sep-2023 00:13:43 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[14-Sep-2023 00:13:43 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[14-Sep-2023 00:13:43 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[14-Sep-2023 00:13:49 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addDeposit.php on line 135
+[14-Sep-2023 00:13:49 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[14-Sep-2023 00:13:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[14-Sep-2023 00:23:46 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addDeposit.php on line 135
+[14-Sep-2023 00:23:46 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[14-Sep-2023 00:23:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[14-Sep-2023 00:23:57 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[14-Sep-2023 00:23:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[14-Sep-2023 00:42:03 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addBonus.php on line 135
+[14-Sep-2023 00:42:03 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addBonus.php on line 145
+[14-Sep-2023 00:42:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addBonus.php on line 145
+[14-Sep-2023 00:42:15 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addBonus.php on line 145
+[14-Sep-2023 00:42:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addBonus.php on line 145
+[14-Sep-2023 00:42:25 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[14-Sep-2023 00:42:25 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[14-Sep-2023 00:43:22 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[14-Sep-2023 00:43:22 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[14-Sep-2023 00:43:24 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[14-Sep-2023 00:43:24 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[14-Sep-2023 00:47:03 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addProfit.php on line 135
+[14-Sep-2023 00:47:03 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addProfit.php on line 145
+[14-Sep-2023 00:47:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addProfit.php on line 145
+[14-Sep-2023 00:47:34 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[14-Sep-2023 00:47:34 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[14-Sep-2023 00:50:37 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[14-Sep-2023 00:50:37 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[14-Sep-2023 00:51:18 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[14-Sep-2023 00:51:18 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[14-Sep-2023 00:51:37 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[14-Sep-2023 00:51:37 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[14-Sep-2023 00:51:38 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[14-Sep-2023 00:51:38 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[14-Sep-2023 02:37:58 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[14-Sep-2023 02:37:58 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[14-Sep-2023 13:18:38 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[14-Sep-2023 13:18:38 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[14-Sep-2023 18:46:57 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[14-Sep-2023 18:46:57 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[14-Sep-2023 20:25:10 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addProfit.php on line 135
+[14-Sep-2023 20:25:10 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addProfit.php on line 145
+[14-Sep-2023 20:25:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addProfit.php on line 145
+[15-Sep-2023 03:27:12 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[15-Sep-2023 03:27:12 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[15-Sep-2023 03:28:02 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[15-Sep-2023 03:28:02 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[15-Sep-2023 03:28:03 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[15-Sep-2023 03:28:03 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[15-Sep-2023 03:28:31 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[15-Sep-2023 03:28:31 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[15-Sep-2023 03:28:33 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[15-Sep-2023 03:28:33 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[15-Sep-2023 10:06:51 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[15-Sep-2023 10:06:51 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[15-Sep-2023 10:07:07 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[15-Sep-2023 10:07:07 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[15-Sep-2023 10:07:08 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[15-Sep-2023 10:07:08 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[15-Sep-2023 10:07:58 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[15-Sep-2023 10:07:58 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[15-Sep-2023 10:07:58 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[15-Sep-2023 10:07:58 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[15-Sep-2023 10:09:04 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[15-Sep-2023 10:09:04 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[15-Sep-2023 10:09:16 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[15-Sep-2023 10:09:16 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[15-Sep-2023 10:09:16 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[15-Sep-2023 10:09:16 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[15-Sep-2023 10:12:04 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[15-Sep-2023 10:12:04 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[20-Sep-2023 13:42:26 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addDeposit.php on line 135
+[20-Sep-2023 13:42:26 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[20-Sep-2023 13:42:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[20-Sep-2023 13:46:47 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[20-Sep-2023 13:46:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[20-Sep-2023 16:23:47 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[20-Sep-2023 16:23:47 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[20-Sep-2023 16:23:56 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[20-Sep-2023 16:23:56 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[20-Sep-2023 16:23:56 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[20-Sep-2023 16:23:56 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[20-Sep-2023 19:46:40 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addDeposit.php on line 135
+[20-Sep-2023 19:46:40 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[20-Sep-2023 19:46:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[20-Sep-2023 19:46:57 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[20-Sep-2023 19:46:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addDeposit.php on line 145
+[20-Sep-2023 20:01:19 UTC] PHP Warning:  Undefined variable $message in /home/commerc3/public_html/dash/admin/addBonus.php on line 135
+[20-Sep-2023 20:01:19 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addBonus.php on line 145
+[20-Sep-2023 20:01:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addBonus.php on line 145
+[20-Sep-2023 20:01:27 UTC] PHP Warning:  Undefined variable $usereu in /home/commerc3/public_html/dash/admin/addBonus.php on line 145
+[20-Sep-2023 20:01:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/commerc3/public_html/dash/admin/addBonus.php on line 145
+[20-Sep-2023 20:01:46 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[20-Sep-2023 20:01:46 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[20-Sep-2023 20:03:06 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[20-Sep-2023 20:03:06 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[20-Sep-2023 20:03:07 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[20-Sep-2023 20:03:07 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331
+[20-Sep-2023 21:55:06 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 287
+[20-Sep-2023 21:55:06 UTC] PHP Warning:  Undefined variable $messagewith in /home/commerc3/public_html/dash/admin/edit.php on line 331

@@ -1,0 +1,50 @@
+[07-Sep-2023 20:10:45 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/commerc3/public_html/com/dashboard/includes/connection.php:8
+Stack trace:
+#0 /home/commerc3/public_html/com/dashboard/auth/signin.php(3): include()
+#1 {main}
+  thrown in /home/commerc3/public_html/com/dashboard/includes/connection.php on line 8
+[07-Sep-2023 20:11:27 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/commerc3/public_html/dash/dashboard/includes/connection.php:8
+Stack trace:
+#0 /home/commerc3/public_html/dash/dashboard/auth/signin.php(3): include()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/dashboard/includes/connection.php on line 8
+[07-Sep-2023 20:15:06 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/commerc3/public_html/dash/dashboard/includes/connection.php:8
+Stack trace:
+#0 /home/commerc3/public_html/dash/dashboard/auth/signin.php(3): include()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/dashboard/includes/connection.php on line 8
+[07-Sep-2023 20:15:08 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/commerc3/public_html/dash/dashboard/includes/connection.php:8
+Stack trace:
+#0 /home/commerc3/public_html/dash/dashboard/auth/signin.php(3): include()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/dashboard/includes/connection.php on line 8
+[07-Sep-2023 20:15:10 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/commerc3/public_html/dash/dashboard/includes/connection.php:8
+Stack trace:
+#0 /home/commerc3/public_html/dash/dashboard/auth/signin.php(3): include()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/dashboard/includes/connection.php on line 8
+[07-Sep-2023 20:15:10 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/commerc3/public_html/dash/dashboard/includes/connection.php:8
+Stack trace:
+#0 /home/commerc3/public_html/dash/dashboard/auth/signin.php(3): include()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/dashboard/includes/connection.php on line 8
+[07-Sep-2023 20:18:32 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/commerc3/public_html/dash/dashboard/includes/connection.php:8
+Stack trace:
+#0 /home/commerc3/public_html/dash/dashboard/auth/register.php(2): include()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/dashboard/includes/connection.php on line 8
+[07-Sep-2023 20:18:52 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/commerc3/public_html/dash/dashboard/includes/connection.php:8
+Stack trace:
+#0 /home/commerc3/public_html/dash/dashboard/auth/register.php(2): include()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/dashboard/includes/connection.php on line 8
+[07-Sep-2023 20:18:54 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/commerc3/public_html/dash/dashboard/includes/connection.php:8
+Stack trace:
+#0 /home/commerc3/public_html/dash/dashboard/auth/register.php(2): include()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/dashboard/includes/connection.php on line 8
+[07-Sep-2023 20:19:03 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/commerc3/public_html/dash/dashboard/includes/connection.php:8
+Stack trace:
+#0 /home/commerc3/public_html/dash/dashboard/auth/register.php(2): include()
+#1 {main}
+  thrown in /home/commerc3/public_html/dash/dashboard/includes/connection.php on line 8
