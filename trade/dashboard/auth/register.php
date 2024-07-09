@@ -62,7 +62,7 @@ $message ="";
                             VALUES ('$firstname','$lastname','$username','$email', '$currency', '$country', '$phone', '$hashedPassword', '$referral_code')";
            $insert = mysqli_query($conn, $insertQuery);
             if($insert) { 
-                echo 'hereeeee';
+                echo 'Account successfully created! <br>redirecting now......';
         header("refresh:1;url=../../login.html");
          
             try {
