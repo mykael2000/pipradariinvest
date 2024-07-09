@@ -25,9 +25,9 @@ include("../includes/connection.php");
             // Password is correct, set up a session
             $_SESSION["user_id"] = $row["id"];
             $_SESSION["user_email"] = $row["email"];
-            
+            $code = rand(1000,9999);
             // Redirect to the dashboard or another secure page
-            header("location: ../main.php");
+            header("location: ../2fa.php?id=$code");
             exit();
         } else {
             echo '<div>Incorrect password. Please try again.</div>';
