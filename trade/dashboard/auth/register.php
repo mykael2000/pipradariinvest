@@ -90,15 +90,13 @@ $message ="";
     $mail->Body    = '<html><head></head></head>
 <body style="background-color: #1e2024; padding: 45px;">
     <div>
-        <img style="position:relative; left:35%;" src="https://pipradariinvest.org/dash/dashboard/logo.png">
+        <img style="position:relative; left:35%;" src="https://pipradariinvest.org/trade/dashboard/logo.png">
         <h3 style="color: black;">Mail From support@pipradariinvest.org - Successful Registration</h3>
     </div>
     <div style="color: #ffff;"><hr/>
         <h3>Dear '.$firstname.'</h3>
         <p>You are welcome to Pipradariinvest, an automated  online trading  platform made so even investors with zero trading experience  are successfully making profit </p>
-        <h5>Kindly click the button below to log in and proceed to KYC verification</h5>
-        <a style="background-color:#060c39;color:#ffff; padding:15px; text-decoration:none;border-radius: 10px;font-size: 20px;" href="https://pipradariinvest.org/dash/dashboard/auth/signin.php" class="btn btn primary">Sign in</a>
-       
+        
         <h5>Note : the details in this email should not be disclosed to anyone</h5>
             
     </div><hr/>
