@@ -4,7 +4,7 @@
  * Licensed under The MIT License
  *
  * @author  : Jacob Overgaard
- * @doc     : http://jacob87.github.io/raty-fa/
+ * @doc     : https://jacob87.github.io/raty-fa/
  * @version : 0.1.1
  *
  */

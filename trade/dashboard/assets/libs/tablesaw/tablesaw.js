@@ -2,7 +2,7 @@
 * https://github.com/filamentgroup/tablesaw
 * Copyright (c) 2019 Filament Group; Licensed MIT */
 /*! Shoestring - v2.0.0 - 2017-02-14
-* http://github.com/filamentgroup/shoestring/
+* https://github.com/filamentgroup/shoestring/
 * Copyright (c) 2017 Scott Jehl, Filament Group, Inc; Licensed MIT & GPLv2 */ 
 (function( factory ) {
 	if( typeof define === 'function' && define.amd ) {

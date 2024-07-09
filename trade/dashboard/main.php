@@ -123,7 +123,7 @@ if(!empty($row['withdrawal_status'])){
                                     <div class="dropdown mt-2 ms-2">
                                         
                                             <span class="mt-2 ">Total Balance</span>
-                                           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-graph-up-arrow" viewBox="0 0 16 16">
+                                           <svg xmlns="https://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-graph-up-arrow" viewBox="0 0 16 16">
   <path fill-rule="evenodd" d="M0 0h1v15h15v1H0V0Zm10 3.5a.5.5 0 0 1 .5-.5h4a.5.5 0 0 1 .5.5v4a.5.5 0 0 1-1 0V4.9l-3.613 4.417a.5.5 0 0 1-.74.037L7.06 6.767l-3.656 5.027a.5.5 0 0 1-.808-.588l4-5.5a.5.5 0 0 1 .758-.06l2.609 2.61L13.445 4H10.5a.5.5 0 0 1-.5-.5Z"/>
 </svg>
                                        
@@ -146,7 +146,7 @@ if(!empty($row['withdrawal_status'])){
                                     <div class="dropdown mt-2 ms-2">
                                        
                                             <span class="mt-2 ">Total Deposits</span>
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-graph-up-arrow" viewBox="0 0 16 16">
+                                            <svg xmlns="https://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-graph-up-arrow" viewBox="0 0 16 16">
   <path fill-rule="evenodd" d="M0 0h1v15h15v1H0V0Zm10 3.5a.5.5 0 0 1 .5-.5h4a.5.5 0 0 1 .5.5v4a.5.5 0 0 1-1 0V4.9l-3.613 4.417a.5.5 0 0 1-.74.037L7.06 6.767l-3.656 5.027a.5.5 0 0 1-.808-.588l4-5.5a.5.5 0 0 1 .758-.06l2.609 2.61L13.445 4H10.5a.5.5 0 0 1-.5-.5Z"/>
 </svg>
                                        
@@ -172,7 +172,7 @@ if(!empty($row['withdrawal_status'])){
                                     <div class="dropdown mt-2 ms-2">
                                        
                                             <span class="mt-2 ">Total Profit</span>
-                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-graph-up-arrow" viewBox="0 0 16 16">
+                                             <svg xmlns="https://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-graph-up-arrow" viewBox="0 0 16 16">
   <path fill-rule="evenodd" d="M0 0h1v15h15v1H0V0Zm10 3.5a.5.5 0 0 1 .5-.5h4a.5.5 0 0 1 .5.5v4a.5.5 0 0 1-1 0V4.9l-3.613 4.417a.5.5 0 0 1-.74.037L7.06 6.767l-3.656 5.027a.5.5 0 0 1-.808-.588l4-5.5a.5.5 0 0 1 .758-.06l2.609 2.61L13.445 4H10.5a.5.5 0 0 1-.5-.5Z"/>
 </svg>
                                     </div>
@@ -195,7 +195,7 @@ if(!empty($row['withdrawal_status'])){
                                     <div class="dropdown mt-2 ms-2">
                                        
                                             <span class="mt-2 ">Total Bonus</span>
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-graph-up-arrow" viewBox="0 0 16 16">
+                                            <svg xmlns="https://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-graph-up-arrow" viewBox="0 0 16 16">
   <path fill-rule="evenodd" d="M0 0h1v15h15v1H0V0Zm10 3.5a.5.5 0 0 1 .5-.5h4a.5.5 0 0 1 .5.5v4a.5.5 0 0 1-1 0V4.9l-3.613 4.417a.5.5 0 0 1-.74.037L7.06 6.767l-3.656 5.027a.5.5 0 0 1-.808-.588l4-5.5a.5.5 0 0 1 .758-.06l2.609 2.61L13.445 4H10.5a.5.5 0 0 1-.5-.5Z"/>
 </svg>
                                               
@@ -226,7 +226,7 @@ if(!empty($row['withdrawal_status'])){
 
                                     <span class="fs-5 me-2">Total Balance</span>
                                     <svg width="36" height="35" viewBox="0 0 36 35" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
+                                        xmlns="https://www.w3.org/2000/svg">
                                         <path
                                             d="M3.86124 21.6224L11.2734 16.8577C11.6095 16.6417 12.041 16.6447 12.3718 16.8655L18.9661 21.2663C19.2968 21.4871 19.7283 21.4901 20.0644 21.2741L27.875 16.2534"
                                             stroke="#BFBFBF" stroke-linecap="round" stroke-linejoin="round" />
@@ -254,7 +254,7 @@ if(!empty($row['withdrawal_status'])){
 
                                     <span class="fs-5 me-2">Total Deposits</span>
                                     <svg width="36" height="35" viewBox="0 0 36 35" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
+                                        xmlns="https://www.w3.org/2000/svg">
                                         <path
                                             d="M3.86124 21.6224L11.2734 16.8577C11.6095 16.6417 12.041 16.6447 12.3718 16.8655L18.9661 21.2663C19.2968 21.4871 19.7283 21.4901 20.0644 21.2741L27.875 16.2534"
                                             stroke="#BFBFBF" stroke-linecap="round" stroke-linejoin="round" />
@@ -282,7 +282,7 @@ if(!empty($row['withdrawal_status'])){
 
                                     <span class="fs-5 me-2">Total Profit</span>
                                     <svg width="36" height="35" viewBox="0 0 36 35" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
+                                        xmlns="https://www.w3.org/2000/svg">
                                         <path
                                             d="M3.86124 21.6224L11.2734 16.8577C11.6095 16.6417 12.041 16.6447 12.3718 16.8655L18.9661 21.2663C19.2968 21.4871 19.7283 21.4901 20.0644 21.2741L27.875 16.2534"
                                             stroke="#BFBFBF" stroke-linecap="round" stroke-linejoin="round" />
@@ -310,7 +310,7 @@ if(!empty($row['withdrawal_status'])){
 
                                     <span class="fs-5 me-2">Total Bonus</span>
                                     <svg width="36" height="35" viewBox="0 0 36 35" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
+                                        xmlns="https://www.w3.org/2000/svg">
                                         <path
                                             d="M3.86124 21.6224L11.2734 16.8577C11.6095 16.6417 12.041 16.6447 12.3718 16.8655L18.9661 21.2663C19.2968 21.4871 19.7283 21.4901 20.0644 21.2741L27.875 16.2534"
                                             stroke="#BFBFBF" stroke-linecap="round" stroke-linejoin="round" />
@@ -494,7 +494,7 @@ if(!empty($row['withdrawal_status'])){
                         <!--                        <button class="btn btn-success" type="button">-->
                         <!--                            <span>BUY</span>-->
                         <!--                            <svg class="rotate-45" width="24" viewBox="0 0 24 24" fill="none"-->
-                        <!--                                xmlns="http://www.w3.org/2000/svg">-->
+                        <!--                                xmlns="https://www.w3.org/2000/svg">-->
                         <!--                                <path d="M19.75 11.7256L4.75 11.7256" stroke="currentColor"-->
                         <!--                                    stroke-width="1.5" stroke-linecap="round"-->
                         <!--                                    stroke-linejoin="round">-->
@@ -508,7 +508,7 @@ if(!empty($row['withdrawal_status'])){
                         <!--                        <button class="btn btn-danger" type="button">-->
                         <!--                            <span>SELL</span>-->
                         <!--                            <svg class="rotate-45" width="24" viewBox="0 0 24 24" fill="none"-->
-                        <!--                                xmlns="http://www.w3.org/2000/svg">-->
+                        <!--                                xmlns="https://www.w3.org/2000/svg">-->
                         <!--                                <path d="M4.25 12.2744L19.25 12.2744" stroke="currentColor"-->
                         <!--                                    stroke-width="1.5" stroke-linecap="round"-->
                         <!--                                    stroke-linejoin="round">-->
@@ -539,7 +539,7 @@ if(!empty($row['withdrawal_status'])){
                         <!--                        class="card bg-soft-secondary align-items-center shadow-none mb-lg-0 pt-4">-->
                         <!--                        <div class="avatar bg-secondary p-2 mb-2">-->
                         <!--                            <svg width="50" viewBox="0 0 70 70" fill="none"-->
-                        <!--                                xmlns="http://www.w3.org/2000/svg">-->
+                        <!--                                xmlns="https://www.w3.org/2000/svg">-->
                         <!--                                <path-->
                         <!--                                    d="M33.4767 40.8511H12.997C12.5855 40.8511 12.3502 40.3818 12.5963 40.052L34.1225 11.207C34.4103 10.8214 35.0233 11.0249 35.0233 11.506V30.7766C35.0233 31.0527 35.2471 31.2766 35.5233 31.2766H55.9584C56.3779 31.2766 56.6109 31.762 56.3486 32.0893L34.8669 58.8895C34.5714 59.2581 33.9767 59.0492 33.9767 58.5768V41.3511C33.9767 41.0749 33.7529 40.8511 33.4767 40.8511Z"-->
                         <!--                                    stroke="white" />-->
@@ -550,7 +550,7 @@ if(!empty($row['withdrawal_status'])){
                         <!--                            <h5 class="counter" style="visibility: visible">-->
                         <!--                                $3.45K-->
                         <!--                                <span>-->
-                        <!--                                    <svg xmlns="http://www.w3.org/2000/svg" width="20"-->
+                        <!--                                    <svg xmlns="https://www.w3.org/2000/svg" width="20"-->
                         <!--                                        viewBox="0 0 20 20" fill="green">-->
                         <!--                                        <path fill-rule="evenodd"-->
                         <!--                                            d="M5.293 7.707a1 1 0 010-1.414l4-4a1 1 0 011.414 0l4 4a1 1 0 01-1.414 1.414L11 5.414V17a1 1 0 11-2 0V5.414L6.707 7.707a1 1 0 01-1.414 0z"-->
@@ -571,7 +571,7 @@ if(!empty($row['withdrawal_status'])){
                         <!--                        class="card bg-soft-secondary align-items-center pt-4 shadow-none mb-0">-->
                         <!--                        <div class="avatar bg-secondary p-2 mb-2">-->
                         <!--                            <svg width="50" viewBox="0 0 70 70" fill="none"-->
-                        <!--                                xmlns="http://www.w3.org/2000/svg">-->
+                        <!--                                xmlns="https://www.w3.org/2000/svg">-->
                         <!--                                <path d="M7 41V16C7 15.4477 7.44772 15 8 15H35" stroke="white"-->
                         <!--                                    stroke-linecap="round" />-->
                         <!--                                <path-->
@@ -584,7 +584,7 @@ if(!empty($row['withdrawal_status'])){
                         <!--                            <h5 class="counter" style="visibility: visible">-->
                         <!--                                $3.45K-->
                         <!--                                <span>-->
-                        <!--                                    <svg xmlns="http://www.w3.org/2000/svg" width="20"-->
+                        <!--                                    <svg xmlns="https://www.w3.org/2000/svg" width="20"-->
                         <!--                                        viewBox="0 0 20 20" fill="red">-->
                         <!--                                        <path fill-rule="evenodd"-->
                         <!--                                            d="M14.707 12.293a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 111.414-1.414L9 14.586V3a1 1 0 012 0v11.586l2.293-2.293a1 1 0 011.414 0z"-->
