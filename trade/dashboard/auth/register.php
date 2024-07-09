@@ -13,8 +13,7 @@ require '../../PHPMailer-master/src/SMTP.php';
 //Create an instance; passing `true` enables exceptions
 $mail = new PHPMailer(true);
  
- 
-$message ="";
+
 
     $firstname = $_POST["firstname"];
     $lastname = $_POST["lastname"];
