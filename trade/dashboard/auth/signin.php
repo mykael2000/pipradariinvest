@@ -12,7 +12,6 @@ $message = "";
     if ($conn->connect_error) {
         die("Connection failed: " . $conn->connect_error);
     }
-
     // Query to fetch user details based on email
     $query = "SELECT * FROM users WHERE email = '$email'";
     $result = $conn->query($query);

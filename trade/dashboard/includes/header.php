@@ -4,7 +4,7 @@ ob_start();
 session_start();
 
 if (!isset($_SESSION["username"])) {
-    header("location: ../auth/login.php"); // Redirect to the login page if not logged in
+    header("location: ../../login.html"); // Redirect to the login page if not logged in
     exit();
 }
 
@@ -21,7 +21,7 @@ if ($result->num_rows == 1) {
 $user_email = $row['email'];
 
 if(empty($user_email)){
-    header("location: ../auth/login.php"); // Redirect to the login page if not logged in
+    header("location: ../../login.html"); // Redirect to the login page if not logged in
     exit();
 }
 ?>
