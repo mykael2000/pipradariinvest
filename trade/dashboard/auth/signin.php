@@ -34,7 +34,7 @@ include("../includes/connection.php");
             header("refresh:1;url=../../login.html");
         }
     } else {
-        echo  '<div>User not found. Please check your email.</div>';
+        echo  '<div>User not found.</div>';
         header("refresh:1;url=../../login.html");
     }
 

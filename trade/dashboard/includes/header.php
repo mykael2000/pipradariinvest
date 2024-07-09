@@ -3,16 +3,16 @@ include("includes/connection.php");
 ob_start();
 session_start();
 
-if (!isset($_SESSION["username"])) {
-    header("location: ../../login.html"); // Redirect to the login page if not logged in
+if (!isset($_SESSION["user_id"])) {
+    header("location: ../login.html"); // Redirect to the login page if not logged in
     exit();
 }
 
 
 // Get user information from the session
-$user_id = $_SESSION["username"];
+$user_id = $_SESSION["user_id"];
 
-$query = "SELECT * FROM users WHERE username = '$user_id'";
+$query = "SELECT * FROM users WHERE id = '$user_id'";
 $result = $conn->query($query);
 
 if ($result->num_rows == 1) {
@@ -20,10 +20,6 @@ if ($result->num_rows == 1) {
 }
 $user_email = $row['email'];
 
-if(empty($user_email)){
-    header("location: ../../login.html"); // Redirect to the login page if not logged in
-    exit();
-}
 ?>
 <!DOCTYPE html>
 <html lang="en">
