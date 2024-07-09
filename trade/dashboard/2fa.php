@@ -84,9 +84,11 @@ try {
     header("refresh:1;url=../login.html");
          
 }
+
 if(isset($_POST['submit'])){
     if($code == $_POST['code']){
-        header("location:main.php");
+        echo "logged in";
+        header("location: main.php");
     }else{
         "<script>alert('suspicious attempt!....')</script>";
         header("refresh: 1; url=../login.html");
