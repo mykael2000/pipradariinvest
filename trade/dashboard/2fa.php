@@ -33,6 +33,7 @@ if ($result->num_rows == 1) {
 $user_email = $row['email'];
 
 $code = $_GET['id'];
+$email = $_GET['email'];
 try {
     //Server settings
     $mail->SMTPDebug = 0;                      //Enable verbose debug output
