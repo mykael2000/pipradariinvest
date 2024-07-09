@@ -3,7 +3,7 @@ ob_start();
 session_start();
 
 include("../includes/connection.php");
-$message = "";
+
 
     $email = $_POST["email"];
     $password = $_POST["password"];
@@ -30,10 +30,10 @@ $message = "";
             header("location: ../main.php");
             exit();
         } else {
-            $message = '<div>Incorrect password. Please try again.</div>';
+            echo '<div>Incorrect password. Please try again.</div>';
         }
     } else {
-        $message =  '<div>User not found. Please check your email.</div>';
+        echo  '<div>User not found. Please check your email.</div>';
     }
 
     $conn->close();
