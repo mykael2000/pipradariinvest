@@ -174,7 +174,7 @@ if(isset($_POST['submit'])){
 
                                 
                                
-                                <button type="submit" class="site-btn grad-btn w-100">
+                                <button name="submit" type="submit" class="site-btn grad-btn w-100">
                                     Submit
                                 </button>
                             </form>
