@@ -31,9 +31,11 @@ include("../includes/connection.php");
             exit();
         } else {
             echo '<div>Incorrect password. Please try again.</div>';
+            header("refresh:1;url=../../login.html");
         }
     } else {
         echo  '<div>User not found. Please check your email.</div>';
+        header("refresh:1;url=../../login.html");
     }
 
     $conn->close();
