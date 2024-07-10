@@ -68,7 +68,7 @@ $mail = new PHPMailer(true);
     //Server settings
     $mail->SMTPDebug = 0;                      //Enable verbose debug output
     $mail->isSMTP();                                            //Send using SMTP
-    $mail->Host       = 'mail.dreamhost.com';                     //Set the SMTP server to send through
+    $mail->Host       = 'mail.pipradariinvest.org';                     //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
     $mail->Username   = 'support@pipradariinvest.org';                     //SMTP username
     $mail->Password   = 'trading12345@67!';                               //SMTP password
