@@ -47,7 +47,7 @@
        
         <!-- Wallet Address with Copy Button -->
         <div class="wallet-address">
-            <strong></strong>
+            <strong>TQDWAz12sAet7CT8fcueAf2q2MYiAQJSJh</strong>
             <button onclick="copyToClipboard()">Copy Address</button>
         </div>
 
@@ -61,7 +61,7 @@
     <script>
     // Generate the QR code
     var qrcode = new QRCode(document.getElementById("qrcode"), {
-        text: "Usdt:",
+        text: "Usdt:TQDWAz12sAet7CT8fcueAf2q2MYiAQJSJh",
         width: 128,
         height: 128,
     });
