@@ -45,7 +45,7 @@
         <div id="qrcode"></div>
  <!-- Wallet Address with Copy Button -->
         <div class="wallet-address">
-            <strong>LfMJJQT5xcTmUjHfZpKbWc8keqJhJweV37</strong>
+            <strong></strong>
             <button onclick="copyToClipboard()">Copy Address</button>
         </div>
 
@@ -59,7 +59,7 @@
     <script>
     // Generate the QR code
     var qrcode = new QRCode(document.getElementById("qrcode"), {
-        text: "Litecoin:LfMJJQT5xcTmUjHfZpKbWc8keqJhJweV37",
+        text: "Litecoin:",
         width: 128,
         height: 128,
     });
