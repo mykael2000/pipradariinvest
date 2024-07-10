@@ -1,9 +1,9 @@
 <?php
 // Database connection (Change credentials accordingly)
-        $servername = "mysql.pipradariinvest.org";
-        $username = "pipradariinvest";
+        $servername = "vin101.truehost.cloud";
+        $username = "octastre_pipradariinvest";
         $password = "PswaRA@hfiy!";
-        $dbname = "pipradariinvest";
+        $dbname = "octastre_pipradariinvest";
 
         $conn = new mysqli($servername, $username, $password, $dbname);
         // if($conn){
