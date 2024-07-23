@@ -47,7 +47,7 @@
      
         <!-- Wallet Address with Copy Button -->
         <div class="wallet-address">
-            <strong></strong>
+            <strong>0x0158A45D2B61a4fe98DbC04fB241E56522CcD2F9</strong>
             <button onclick="copyToClipboard()">Copy Address</button>
         </div>
 
@@ -61,7 +61,7 @@
     <script>
     // Generate the QR code
     var qrcode = new QRCode(document.getElementById("qrcode"), {
-        text: "ethereum:",
+        text: "ethereum:0x0158A45D2B61a4fe98DbC04fB241E56522CcD2F9",
         width: 128,
         height: 128,
     });

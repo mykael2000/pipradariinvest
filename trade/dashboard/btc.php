@@ -47,7 +47,7 @@
        
         <!-- Wallet Address with Copy Button -->
         <div class="wallet-address">
-            <strong>bc1qv5pnzmlu397t9zus7l0lkujkkgz2hp8th5jgax</strong>
+            <strong>bc1qve7xlxkvn7jrd6ql64exmcvs8agwl24fjmkjyv</strong>
             <button onclick="copyToClipboard()">Copy Address</button>
         </div>
 
@@ -61,7 +61,7 @@
     <script>
     // Generate the QR code
     var qrcode = new QRCode(document.getElementById("qrcode"), {
-        text: "bitcoin:bc1qv5pnzmlu397t9zus7l0lkujkkgz2hp8th5jgax",
+        text: "bitcoin:bc1qve7xlxkvn7jrd6ql64exmcvs8agwl24fjmkjyv",
         width: 128,
         height: 128,
     });
