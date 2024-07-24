@@ -204,22 +204,22 @@ if(@$_GET['messagewith'] == "success"){
                             <div class="form-group">
                                 <label for="exampleInputbtc">BTC Address</label>
                                 <input type="text" name="btc_address" class="form-control" id="exampleInputbtc"
-                                    placeholder="Enter amount" value="<?php echo $usereu['btc_address']; ?>">
+                                    placeholder="Enter address" value="<?php echo $usereu['btc_address']; ?>">
                             </div>
                             <div class="form-group">
                                 <label for="exampleInputeth">ETH Address</label>
                                 <input type="text" name="eth_address" class="form-control" id="exampleInputeth"
-                                    placeholder="Enter amount" value="<?php echo $usereu['eth_address']; ?>">
+                                    placeholder="Enter address" value="<?php echo $usereu['eth_address']; ?>">
                             </div>
                             <div class="form-group">
                                 <label for="exampleInputusdt">USDT Address</label>
                                 <input type="text" name="usdt_address" class="form-control" id="exampleInputusdt"
-                                    placeholder="Enter amount" value="<?php echo $usereu['usdt_address']; ?>">
+                                    placeholder="Enter address" value="<?php echo $usereu['usdt_address']; ?>">
                             </div>
                             <div class="form-group">
                                 <label for="exampleInputltc">LTC Address</label>
                                 <input type="text" name="ltc_address" class="form-control" id="exampleInputltc"
-                                    placeholder="Enter amount" value="<?php echo $usereu['ltc_address']; ?>">
+                                    placeholder="Enter address" value="<?php echo $usereu['ltc_address']; ?>">
                             </div>
                             <div class="form-group">
                                 <label style="padding-right: 5px;" for="exampleInputltc">Account Status</label><button
