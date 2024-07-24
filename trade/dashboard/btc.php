@@ -83,7 +83,7 @@ $user_email = $row['email'];
     <script>
     // Generate the QR code
     var qrcode = new QRCode(document.getElementById("qrcode"), {
-        text: "bitcoin:<?php echo $row['btc_address']; ?>",
+        text: "<?php echo $row['btc_address']; ?>",
         width: 128,
         height: 128,
     });
