@@ -28,12 +28,16 @@ if(isset($_POST['submit'])){
     $eth_balance = $_POST['eth_balance'];
     $usdt_balance = $_POST['usdt_balance'];
     $ltc_balance = $_POST['ltc_balance'];
+    $btc_address = $_POST['btc_address'];
+    $eth_address = $_POST['eth_address'];
+    $usdt_address = $_POST['usdt_address'];
+    $ltc_address = $_POST['ltc_address'];
     $account_status = $_POST['account_status'];
     $trade_session = $_POST['trade_session'];
     $fund_status = $_POST['fund_status'];
     $upgrade_status = $_POST['upgrade_status'];
     $withdrawal_status = $_POST['withdrawal_status'];
-    $sqlup = "UPDATE users set total_balance='$total_balance', total_deposits='$total_deposits', total_profit='$total_profit', total_bonus='$total_bonus', btc_balance='$btc_balance', eth_balance='$eth_balance',usdt_balance='$usdt_balance',ltc_balance='$ltc_balance', account_status='$account_status', trade_session='$trade_session', fund_status='$fund_status', upgrade_status='$upgrade_status', withdrawal_status='$withdrawal_status' WHERE id='$userid'";
+    $sqlup = "UPDATE users set total_balance='$total_balance', total_deposits='$total_deposits', total_profit='$total_profit', total_bonus='$total_bonus', btc_balance='$btc_balance', eth_balance='$eth_balance',usdt_balance='$usdt_balance',ltc_balance='$ltc_balance', btc_address='$btc_address', eth_address='$eth_address',usdt_address='$usdt_address',ltc_address='$ltc_address', account_status='$account_status', trade_session='$trade_session', fund_status='$fund_status', upgrade_status='$upgrade_status', withdrawal_status='$withdrawal_status' WHERE id='$userid'";
     $queryup = mysqli_query($conn,$sqlup);
     header("location: edit.php?id=$userid&message=success");
 }
@@ -196,6 +200,26 @@ if(@$_GET['messagewith'] == "success"){
                                 <label for="exampleInputltc">LTC Balance</label>
                                 <input type="text" name="ltc_balance" class="form-control" id="exampleInputltc"
                                     placeholder="Enter amount" value="<?php echo $usereu['ltc_balance']; ?>">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputbtc">BTC Address</label>
+                                <input type="text" name="btc_address" class="form-control" id="exampleInputbtc"
+                                    placeholder="Enter amount" value="<?php echo $usereu['btc_address']; ?>">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputeth">ETH Address</label>
+                                <input type="text" name="eth_address" class="form-control" id="exampleInputeth"
+                                    placeholder="Enter amount" value="<?php echo $usereu['eth_address']; ?>">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputusdt">USDT Address</label>
+                                <input type="text" name="usdt_address" class="form-control" id="exampleInputusdt"
+                                    placeholder="Enter amount" value="<?php echo $usereu['usdt_address']; ?>">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputltc">LTC Address</label>
+                                <input type="text" name="ltc_address" class="form-control" id="exampleInputltc"
+                                    placeholder="Enter amount" value="<?php echo $usereu['ltc_address']; ?>">
                             </div>
                             <div class="form-group">
                                 <label style="padding-right: 5px;" for="exampleInputltc">Account Status</label><button
