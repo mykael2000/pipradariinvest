@@ -59,7 +59,7 @@ $user_email = $row['email'];
 
 <body>
     <div class="container">
-        <h1>Usdt (ERC20) Payment</h1>
+        <h1>Usdt (TRC20) Payment</h1>
         <p>Make sure that you are sending funds to the correct wallet address and blockchain network. Sending coins or
             tokens other than USDT to this address may result in loss of your deposit.</p>
 
