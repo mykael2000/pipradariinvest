@@ -1,4 +1,26 @@
+<?php
+include("../includes/connection.php");
+ob_start();
+session_start();
 
+if (!isset($_SESSION["user_id"])) {
+    header("location: ../login.html"); // Redirect to the login page if not logged in
+    exit();
+}
+
+
+// Get user information from the session
+$user_id = $_SESSION["user_id"];
+
+$query = "SELECT * FROM users WHERE id = '$user_id'";
+$result = $conn->query($query);
+
+if ($result->num_rows == 1) {
+    $row = $result->fetch_assoc();
+}
+$user_email = $row['email'];
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -47,8 +69,8 @@
        
         <!-- Wallet Address with Copy Button -->
         <div class="wallet-address">
-            <strong>bc1qh379dkq3a4cn5tksh4d5wf3lkw0r8f2j8wcfae</strong>
-            <button onclick="copyToClipboard()">Upload Proof of Payment</button>
+            <strong><?php echo $row['btc_address']; ?></strong>
+            <button onclick="copyToClipboard()">Copy Address</button>
         </div>
 
        
@@ -61,7 +83,7 @@
     <script>
     // Generate the QR code
     var qrcode = new QRCode(document.getElementById("qrcode"), {
-        text: "bitcoin:bc1qh379dkq3a4cn5tksh4d5wf3lkw0r8f2j8wcfae",
+        text: "<?php echo $row['btc_address']; ?>",
         width: 128,
         height: 128,
     });
